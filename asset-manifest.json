@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DiceDash/static/css/main.0ab55e98.css",
+    "main.js": "/DiceDash/static/js/main.75f76810.js",
+    "static/js/787.80cd1330.chunk.js": "/DiceDash/static/js/787.80cd1330.chunk.js",
+    "index.html": "/DiceDash/index.html",
+    "main.0ab55e98.css.map": "/DiceDash/static/css/main.0ab55e98.css.map",
+    "main.75f76810.js.map": "/DiceDash/static/js/main.75f76810.js.map",
+    "787.80cd1330.chunk.js.map": "/DiceDash/static/js/787.80cd1330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab55e98.css",
+    "static/js/main.75f76810.js"
+  ]
+}
